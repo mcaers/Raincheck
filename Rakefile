@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Raincheck::Application.load_tasks
+RaincheckApp::Application.load_tasks
